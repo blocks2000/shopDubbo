@@ -1,0 +1,15 @@
+dubbo:
+  application:
+    name: item
+  registry:
+    protocol: zookeeper
+    address: 192.168.182.140:2181
+server:
+  port: 9093
+spring:
+  rabbitmq:
+    host: 192.168.182.140
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /

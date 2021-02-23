@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mapper" />
+        <module name="user-service" />
+        <module name="sso" />
+        <module name="cart" />
+        <module name="b-web" />
+        <module name="search" />
+        <module name="user-api" />
+        <module name="common" />
+        <module name="search-service" />
+        <module name="sms-service" />
+        <module name="fastdfs" />
+        <module name="api" />
+        <module name="search-api" />
+        <module name="temp" />
+        <module name="item" />
+        <module name="cart-service" />
+        <module name="product-service" />
+        <module name="index" />
+        <module name="sms-api" />
+        <module name="service" />
+        <module name="background" />
+        <module name="shopDubbo" />
+        <module name="product-api" />
+        <module name="basic" />
+        <module name="cart-api" />
+        <module name="entity" />
+        <module name="register" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="background" options="-parameters" />
+      <module name="cart" options="-parameters" />
+      <module name="cart-service" options="-parameters" />
+      <module name="fastdfs" options="-parameters" />
+      <module name="index" options="-parameters" />
+      <module name="item" options="-parameters" />
+      <module name="mapper" options="-parameters" />
+      <module name="product-service" options="-parameters" />
+      <module name="register" options="-parameters" />
+      <module name="search" options="-parameters" />
+      <module name="search-service" options="-parameters" />
+      <module name="sms-service" options="-parameters" />
+      <module name="sso" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

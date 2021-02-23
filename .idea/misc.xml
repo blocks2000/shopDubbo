@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/common/pom.xml" />
+        <option value="$PROJECT_DIR$/api/product-api/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/entity/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/service/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/background/pom.xml" />
+        <option value="$PROJECT_DIR$/temp/pom.xml" />
+        <option value="$PROJECT_DIR$/temp/fastdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/index/pom.xml" />
+        <option value="$PROJECT_DIR$/api/search-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service/search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/search/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/item/pom.xml" />
+        <option value="$PROJECT_DIR$/api/user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/register/pom.xml" />
+        <option value="$PROJECT_DIR$/api/sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service/sms-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/sso/pom.xml" />
+        <option value="$PROJECT_DIR$/api/cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service/cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/b-web/cart/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.thymeleaf.org" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/b-web/background/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-web/cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-web/index/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-web/item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-web/register/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-web/search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-web/sso/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/mapper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/cart-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/search-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/sms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/temp/fastdfs/src/main/java" charset="UTF-8" />
+  </component>
+</project>

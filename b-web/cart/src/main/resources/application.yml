@@ -1,0 +1,17 @@
+dubbo:
+  application:
+    name: web-cart
+  registry:
+    protocol: zookeeper
+    address: 192.168.182.140:2181
+server:
+  port: 9098
+
+spring:
+  thymeleaf:
+    cache: false
+  rabbitmq:
+    host: 192.168.182.140
+    username: guest
+    password: guest
+    virtual-host: /
